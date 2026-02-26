@@ -1,6 +1,6 @@
 # Calculadora em Python (CLI)
 
-Aplicação criada para praticar lógica de programação, controle de fluxo e organização de código, simulando uma calculadora operada via terminal.
+Aplicação em terminal desenvolvida em Python, com foco em organização estrutural do código e tratamento adequado de exceções.
 
 # Funcionalidades
 
@@ -14,7 +14,7 @@ Aplicação criada para praticar lógica de programação, controle de fluxo e o
     • Modularização com funções
     • Controle de fluxo estruturado
     • Validação e tratamento de dados
-    • Organização e legibilidade de código
+    • Estrutura baseada em funções independentes
     
 # Objetivo
 
@@ -22,4 +22,4 @@ Consolidar fundamentos de programação e fortalecer a base técnica necessária
 
 # Execução
 
-Python terminal calculator.py
+python Python_terminal_calculator.py
